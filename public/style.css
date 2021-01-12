@@ -1,0 +1,110 @@
+.d-block {
+  display: block;
+}
+.d-flex {
+  display: flex;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.align-items-center {
+  align-items: center;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.label {
+  color: #000000;
+  font-size: 1rem;
+}
+
+.bordered {
+  border: 1px solid rgb(158, 158, 158);
+}
+
+.color-red {
+  color: #ee6e73;
+}
+.bg-red {
+  background: rgba(238, 110, 115, 0.48);
+}
+
+.color-green {
+  color: #4db6ac;
+}
+
+.bg-green {
+  background: rgba(77, 182, 172, 0.48);
+}
+
+.titulo {
+  font-size: 1.84rem;
+  margin: 2.4rem 0 1.2rem;
+}
+
+.subtitulo {
+  font-size: 1.44rem;
+  margin: 1.2rem 0 2.4rem;
+}
+
+.infos {
+  padding: 0.48rem;
+  border-radius: 4px;
+  border-color: #ccc;
+}
+
+.infos .row {
+  margin-bottom: 0;
+}
+
+.transaction {
+  margin-bottom: 1.84rem;
+  padding: 0.64rem 1.6rem;
+  border-radius: 4px;
+}
+
+.transaction__boxDay {
+  width: 5%;
+}
+
+.transaction__day {
+  font-size: 2rem;
+}
+
+.transaction__boxDescription {
+  width: 60%;
+}
+
+.transaction__category {
+  font-size: 1.04rem;
+}
+
+.transaction__description {
+  font-size: 1.04rem;
+  margin: 0;
+}
+
+.transaction__boxValue {
+  width: 20%;
+}
+
+.transaction__value {
+  font-size: 1.6rem;
+}
+
+.transaction__boxActions {
+  width: 15%;
+}
+
+.transaction__buttonAction {
+  cursor: pointer;
+  background: transparent;
+  margin-left: 0.48rem;
+  border: 0;
+}
